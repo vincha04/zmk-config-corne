@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: vincha04
-      url-base: https://github.com/vincha04
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
-      remote: vincha04
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
   self:
