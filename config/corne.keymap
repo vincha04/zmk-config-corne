@@ -75,6 +75,11 @@
       bindings = <&out OUT_USB>;
       key-positions = <12 13>;
     };
+
+    gaminglayer {
+      bindings = <&tog 4>;
+      key-positions = <36 37 38>;
+    };
   };
 
   macros {
